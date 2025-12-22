@@ -1,4 +1,9 @@
-## Hi there 👋
+## o7 
+- [links](https://links.drakehopkins.com) 
+- [personal](https://drakehopkins.com) 
+- [spoolworx](https://spoolworx.com) 
+- [pop_os](https://github.com/drakeafk/pop_os-setup) 
+- [macos-health](https://github.com/drakeafk/macos-health) 
 
 <!--
 **DrakeAFK/drakeafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
