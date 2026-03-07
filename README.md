@@ -1,22 +1,15 @@
-## o7 
-- [links](https://links.drakehopkins.com) 
-- [personal](https://drakehopkins.com) 
-- [spoolworx](https://spoolworx.com) 
-- [pop_os](https://github.com/drakeafk/pop_os-setup) 
-- [macos-health](https://github.com/drakeafk/macos-health) 
-- [gotodo](https://github.com/drakeafk/gotodo)
+o7
 
-<!--
-**DrakeAFK/drakeafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mostly building web apps, dev tools, and whatever i'm interested in at the time.
 
-Here are some ideas to get you started:
+**projects**
+- repoLM: https://github.com/drakeafk/repolm
+- spoolworx: https://spoolworx.com
+- macOSHealth: https://github.com/drakeafk/macos-health
+- cmdsetgo: https://github.com/drakeafk/cmdsetgo
+- memory_leak (game): https://memory-leak.drakehopkins.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**elsewhere**
+- https://drakehopkins.com
+- https://links.drakehopkins.com
+- https://x.com/drakeafk_ 
