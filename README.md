@@ -1,6 +1,9 @@
 o7  
 
-Mostly building web apps, dev tools, and whatever i'm interested in at the time  
+software engineer in FL, US  
+
+mostly building local apps, dev tools, self-hosted systems, whatever i'm interested in at the time  
+
 
 **elsewhere**  
 - <https://drakehopkins.com>  
